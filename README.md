@@ -5,8 +5,8 @@ Welcome to the GitHub repository of **Team Spartans**, where our team is dedicat
 
 ## Team Members
 - Muhammad Adeen (Project Manager + Python Back-end Developer)
-- Sheraz Ahmed 
-- Krish Patel
+- Sheraz Ahmed (Front-end Developer)
+- Krish Patel (AI/ML Modelling)
 - Muhammad Umer Aziz Khan (Front-end Developer)
 
 
